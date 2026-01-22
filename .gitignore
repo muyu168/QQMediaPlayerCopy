@@ -352,3 +352,6 @@ QQMediaPlayerCopy/vlc/
 # Build output directories
 x64/
 QQMediaPlayerCopy/x64/
+
+# Personal notes and guides (not for public)
+docs/技术文档书写指南.md
