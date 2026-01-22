@@ -1,0 +1,2 @@
+# QQMediaPlayerCopy
+此项目为开源项目QQMediaPlayerCopy的二次开发，用于qt项目实践，在原有基础上完善了主窗口拖拽、播放进度条设置、音量控制等主要功能
